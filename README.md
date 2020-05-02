@@ -13,4 +13,4 @@ python manage.py migrate
 ```bash
 python manage.py runserver
 ```
-entrar a [localhost:8000](http://localhost:8000/) para ver la aplicación
+Entrar a [localhost:8000](http://localhost:8000/) para ver la aplicación
