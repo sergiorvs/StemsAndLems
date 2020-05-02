@@ -1,4 +1,4 @@
-# StemsAndLems
+# StemsAndLems Instrucciones
 
 ## Instalación
 
@@ -12,3 +12,4 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
+entrar a localhost:8000
