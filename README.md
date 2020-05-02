@@ -1,6 +1,6 @@
 # StemsAndLems Instructions
 
-## Instalation
+## Installation
 
 ```bash
 pip install -r requirements.txt
