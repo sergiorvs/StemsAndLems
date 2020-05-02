@@ -1,13 +1,13 @@
-# StemsAndLems Instrucciones
+# StemsAndLems Instructions
 
-## Instalación
+## Instalation
 
 ```bash
 pip install -r requirements.txt
 python manage.py migrate
 ```
 
-## Ejecutar
+## Run
 
 
 ```bash
