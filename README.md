@@ -12,4 +12,4 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
-entrar a localhost:8000
+entrar a [localhost:8000](localhost:8000)
